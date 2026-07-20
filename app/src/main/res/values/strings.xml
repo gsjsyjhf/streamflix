@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ستريم فلكس</string>
+    <string name="app_tagline">منصة الترفيه المتكاملة</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_movies">أفلام</string>
+    <string name="nav_sports">رياضة</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <string name="home_search_hint">ابحث عن فيلم، مسلسل، أنمي…</string>
+    <string name="home_continue_watching">متابعة المشاهدة</string>
+    <string name="home_trending">الأكثر رواجاً</string>
+    <string name="home_popular_movies">أفلام رائجة</string>
+    <string name="home_popular_series">مسلسلات</string>
+    <string name="home_popular_anime">أنمي</string>
+    <string name="home_live_sports">مباريات اليوم</string>
+    <string name="home_live_channels">بث مباشر</string>
+    <string name="home_top_rated">الأعلى تقييماً</string>
+    <string name="home_for_you">مختار لك</string>
+
+    <string name="detail_play">تشغيل</string>
+    <string name="detail_trailer">العرض الدعائي</string>
+    <string name="detail_add_to_favorites">إضافة للمفضلة</string>
+    <string name="detail_remove_from_favorites">إزالة من المفضلة</string>
+    <string name="detail_overview">القصة</string>
+    <string name="detail_cast">طاقم العمل</string>
+    <string name="detail_similar">مشابه</string>
+    <string name="detail_seasons">المواسم</string>
+    <string name="detail_episodes">الحلقات</string>
+
+    <string name="player_quality">الجودة</string>
+    <string name="player_speed">السرعة</string>
+    <string name="player_subtitles">الترجمة</string>
+    <string name="player_lock">قفل</string>
+    <string name="player_pip">نافذة عائمة</string>
+
+    <string name="sports_live">مباشر الآن</string>
+    <string name="sports_upcoming">مباريات قادمة</string>
+    <string name="sports_results">النتائج</string>
+    <string name="sports_standings">الترتيب</string>
+
+    <string name="settings_appearance">المظهر</string>
+    <string name="settings_dark_mode">الوضع الليلي</string>
+    <string name="settings_light_mode">الوضع الفاتح</string>
+    <string name="settings_system_mode">تلقائي</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_font_size">حجم الخط</string>
+    <string name="settings_quality">جودة التشغيل</string>
+    <string name="settings_clear_cache">حذف الكاش</string>
+    <string name="settings_share">مشاركة التطبيق</string>
+    <string name="settings_rate">تقييم التطبيق</string>
+    <string name="settings_about">حول التطبيق</string>
+
+    <string name="loading">جاري التحميل…</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="error_generic">حدث خطأ ما</string>
+    <string name="empty">لا يوجد محتوى</string>
+    <string name="search">بحث</string>
+
+    <!-- Colors -->
+    <color name="brand_primary">#6366F1</color>
+    <color name="brand_accent">#E50914</color>
+    <color name="brand_gold">#F59E0B</color>
+    <color name="bg_dark">#0A0E1A</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#0A0E1A</color>
+</resources>

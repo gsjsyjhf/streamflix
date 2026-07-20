@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamFlix</string>
+    <string name="app_tagline">All-in-one entertainment</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_sports">Sports</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="home_search_hint">Search movie, series, anime…</string>
+    <string name="home_continue_watching">Continue Watching</string>
+    <string name="home_trending">Trending Now</string>
+    <string name="home_popular_movies">Popular Movies</string>
+    <string name="home_popular_series">TV Series</string>
+    <string name="home_popular_anime">Anime</string>
+    <string name="home_live_sports">Today\'s Matches</string>
+    <string name="home_live_channels">Live Channels</string>
+    <string name="home_top_rated">Top Rated</string>
+    <string name="home_for_you">For You</string>
+
+    <string name="detail_play">Play</string>
+    <string name="detail_trailer">Trailer</string>
+    <string name="detail_add_to_favorites">Add to Favorites</string>
+    <string name="detail_remove_from_favorites">Remove from Favorites</string>
+    <string name="detail_overview">Overview</string>
+    <string name="detail_cast">Cast</string>
+    <string name="detail_similar">Similar</string>
+    <string name="detail_seasons">Seasons</string>
+    <string name="detail_episodes">Episodes</string>
+
+    <string name="player_quality">Quality</string>
+    <string name="player_speed">Speed</string>
+    <string name="player_subtitles">Subtitles</string>
+    <string name="player_lock">Lock</string>
+    <string name="player_pip">PiP</string>
+
+    <string name="sports_live">Live Now</string>
+    <string name="sports_upcoming">Upcoming</string>
+    <string name="sports_results">Results</string>
+    <string name="sports_standings">Standings</string>
+
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_light_mode">Light Mode</string>
+    <string name="settings_system_mode">Auto</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_font_size">Font Size</string>
+    <string name="settings_quality">Playback Quality</string>
+    <string name="settings_clear_cache">Clear Cache</string>
+    <string name="settings_share">Share App</string>
+    <string name="settings_rate">Rate App</string>
+    <string name="settings_about">About</string>
+
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="empty">No content</string>
+    <string name="search">Search</string>
+</resources>
